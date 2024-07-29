@@ -1,1 +1,1 @@
-# PNSA
+Personal News Summarization Assistant is a web application, in which it summarizes the news articles based on the user's interest using 'LangChain a Natural Language Processing module' by which it minimizes the time in news reading. Some of the modules used for the implementation are :: gnewsclient, LangChain, googletrans, gtts, streamlit 
